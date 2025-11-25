@@ -1,3 +1,5 @@
+//WOW
+
 #include <ncurses.h>
 
 WINDOW *create_win(int height, int width, int starty, int startx);
